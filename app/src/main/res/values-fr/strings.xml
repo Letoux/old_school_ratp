@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">RAPT_delays</string>
+    <string name="app_name">Old school RATP</string>
+
+    <!--Types-->
+    <string name="bus">Bus</string>
+    <string name="metro">Métro</string>
+    <string name="RER">RER</string>
+    <string name="tram">Tramway</string>
+
+    <!--Messages-->
+    <string name="how_to">Choisissez un type de transport pour voir les retards</string>
+
+    <string name="welcome">Bienvenue sur Old school RATP!</string>
+
 </resources>
